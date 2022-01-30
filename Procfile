@@ -1,0 +1,1 @@
+web gunicorn ajaxA.wsgi:application --log-file -
